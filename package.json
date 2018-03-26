@@ -1,0 +1,26 @@
+{
+  "name": "insights-network",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1_initial_migration.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "zeppelin-solidity": "^1.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/insights-network/instar.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/insights-network/token-sale/issues"
+  },
+  "homepage": "https://github.com/insights-network/instar#readme"
+}
